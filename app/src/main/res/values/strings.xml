@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Homework4</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="edit_location">Enter a location</string>
+    <string name="button_submit">Submit</string>
+</resources>
